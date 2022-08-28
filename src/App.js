@@ -1,6 +1,6 @@
 
-import Navbar from './camponotus/Navbar';
-import TextForm from './camponotus/TextForm';
+import Navbar from './components/Navbar';
+import TextForm from './components/TextForm';
 
 
 function App() {
